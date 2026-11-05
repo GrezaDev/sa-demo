@@ -1,4 +1,4 @@
 # sa-demo
 
-A small demo project. Here you will recieve weekly updates about the tool.
-Teh setup takes less then five minutes.
+A small demo project. Here you will receive weekly updates about the tool.
+The setup takes less than five minutes.
